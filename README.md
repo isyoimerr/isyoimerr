@@ -1,70 +1,68 @@
-# Hola, soy Yoimer Ospino 👋
+# Yoimer Ospino
 
 ## Desarrollador web y estudiante de Ingeniería de Datos e Inteligencia Artificial
 
-Me interesa crear productos digitales útiles, visuales y escalables. Trabajo en aplicaciones web, plataformas educativas, sistemas administrativos y proyectos de análisis de datos.
+Construyo aplicaciones web, sistemas administrativos y soluciones digitales enfocadas en resolver problemas reales. Trabajo principalmente con JavaScript, React, Node.js, Python y bases de datos SQL.
 
-- 🌐 Desarrollo aplicaciones web modernas
-- 📊 Interés en análisis de datos e inteligencia artificial
-- 🎓 Estudiante de Ingeniería de Datos e Inteligencia Artificial
-- 🚀 Transformo ideas en productos funcionales
-- 📍 Barranquilla, Colombia
+Actualmente desarrollo proyectos educativos, plataformas de gestión, productos comerciales y herramientas de análisis de datos.
 
 ## Tecnologías
 
-### Frontend
+**Frontend**  
+JavaScript · React · Vite · Tailwind CSS · HTML · CSS
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Backend y datos**  
+Node.js · Express · Python · MySQL · PostgreSQL · Prisma · Sequelize
 
-### Backend, datos y bases de datos
+**Herramientas**  
+Git · GitHub · REST APIs · Socket.io · Vercel
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## Proyectos principales
 
-### Herramientas
+### Sistema de reservas de aulas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Sistema web para gestionar la reserva de aulas, consultar disponibilidad y organizar espacios académicos.
 
-## Proyectos destacados
+**Tecnologías:** PHP · MySQL · JavaScript
 
-### ⚽ [LALAND Football](https://github.com/isyoimerr/laland-football)
+[Ver repositorio](https://github.com/proyectodegrado253-ai/sistema-reservas-aulas) · [Ver demo](https://sistema-reservas-aulas.vercel.app)
 
-Plataforma web de fútbol con partidos en vivo, estadísticas, perfiles de jugadores, tablas de posiciones y panel administrativo.
+### LALAND Football
 
-**Tecnologías:** React, Node.js, Express, MySQL, Sequelize y Socket.io.
+Plataforma web de fútbol con resultados, estadísticas, perfiles de jugadores, tablas de posiciones, eventos en vivo y panel administrativo.
 
-### 📚 [INTEGRA+](https://github.com/isyoimerr/integra_plus)
+**Tecnologías:** React · Node.js · Express · MySQL · Sequelize · Socket.io
 
-Plataforma educativa para aprender cálculo integral mediante niveles, ejercicios interactivos, progreso, gamificación y paneles para estudiantes y docentes.
+[Ver repositorio](https://github.com/isyoimerr/laland-football)
 
-**Tecnologías:** React, Node.js, Prisma, SQL y KaTeX.
+### INTEGRA+
 
-### ✦ [ZAYRO Web](https://github.com/isyoimerr/zayro-web)
+Plataforma educativa para aprender cálculo integral mediante rutas de aprendizaje, ejercicios interactivos, progreso y herramientas para estudiantes y docentes.
 
-Landing page comercial para una marca de perfumes, moda y accesorios, con enfoque visual premium y experiencia optimizada para dispositivos móviles.
+**Tecnologías:** React · Node.js · Prisma · SQL · KaTeX
 
-**[Ver sitio web](https://zayro-web.vercel.app/)** · **[Ver repositorio](https://github.com/isyoimerr/zayro-web)**
+[Ver repositorio](https://github.com/isyoimerr/integra_plus)
+
+### ZAYRO Web
+
+Landing page comercial para una marca de perfumes, moda y accesorios, con identidad visual premium y experiencia optimizada para dispositivos móviles.
+
+**Tecnologías:** JavaScript · HTML · CSS · Vercel
+
+[Visitar sitio](https://zayro-web.vercel.app) · [Ver repositorio](https://github.com/isyoimerr/zayro-web)
 
 ## Otros proyectos
 
-- [Sistema de reservas de aulas](https://github.com/proyectodegrado253-ai/sistema-reservas-aulas)
-- [Análisis del abuso en Colombia](https://github.com/isyoimerr/equacdatalab-analisis)
+- [Análisis del abuso en Colombia](https://github.com/isyoimerr/equacdatalab-analisis) — análisis exploratorio de datos públicos con enfoque social.
+- [Introducción a GitHub](https://github.com/isyoimerr/skills-introduction-to-github) — ejercicios y prácticas de GitHub.
 
-## Actualmente aprendiendo
+## Enfoque actual
 
-- Arquitectura de aplicaciones web
-- Despliegue y DevOps
-- Análisis de datos
-- Inteligencia artificial aplicada
-- Buenas prácticas de software
+- Desarrollo de aplicaciones web full stack.
+- Diseño de APIs y sistemas de gestión.
+- Análisis de datos e inteligencia artificial.
+- Despliegue de aplicaciones y buenas prácticas de software.
 
 ## Contacto
 
-Puedes contactarme a través de GitHub o de los enlaces disponibles en mis proyectos.
+Para conocer mis proyectos, revisa los repositorios destacados o visita los enlaces de cada aplicación.
