@@ -2,102 +2,136 @@
 
 # Yoimer Ospino
 
-### Software Developer · Data Engineering & Artificial Intelligence Student
+### Estudiante de Ingeniería de Datos e Inteligencia Artificial
 
-Building practical web applications, management systems and data-driven products.
+Desarrollo soluciones de datos, aplicaciones web y productos digitales con enfoque práctico.
 
-[![Profile views](https://komarev.com/ghpvc/?username=isyoimerr&style=flat-square&color=2563eb)](https://github.com/isyoimerr)
-[![GitHub followers](https://img.shields.io/github/followers/isyoimerr?style=flat-square&color=2563eb)](https://github.com/isyoimerr?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/isyoimerr?style=flat-square&color=2563eb)](https://github.com/isyoimerr?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-isyoimerr-181717?style=flat-square&logo=github)](https://github.com/isyoimerr)
+[![Ubicación](https://img.shields.io/badge/Barranquilla%2C%20Colombia-2563eb?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/isyoimerr)
 
 </div>
 
 ---
 
-## About me
+## Sobre mí
 
-I am a software developer and student of Data Engineering and Artificial Intelligence at Universidad Simón Bolívar in Barranquilla, Colombia.
+Soy estudiante de **Ingeniería de Datos e Inteligencia Artificial** en la Universidad Simón Bolívar y técnico en Desarrollo de Software.
 
-My work focuses on building full-stack applications, educational platforms, administrative systems and data analysis projects. I value clear interfaces, useful products, maintainable code and continuous learning.
+Mi formación profesional está enfocada en el ciclo completo de los datos: organización y almacenamiento de información, análisis, automatización y desarrollo de soluciones con inteligencia artificial. También desarrollo aplicaciones web y sistemas administrativos, una fortaleza que me permite convertir necesidades reales en productos funcionales.
 
-## Core technologies
+Me interesa construir software claro, mantenible y útil, con especial atención a la calidad de los datos, la experiencia del usuario y la documentación técnica.
 
-<div align="center">
+## Enfoque profesional
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+- Ingeniería de datos y diseño de bases de datos
+- Análisis exploratorio y visualización de datos
+- Python, SQL y automatización
+- Inteligencia artificial aplicada y visión por computador
+- APIs, aplicaciones web y sistemas administrativos
+- Git, documentación y desarrollo colaborativo
 
-</div>
+## Tecnologías
 
-## Featured projects
+### Datos e inteligencia artificial
 
-### Sistema de reservas de aulas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-Web system for managing classroom availability and academic space reservations. The project includes a public interface, reservation flow and deployment for online demonstration.
+### Desarrollo y herramientas
 
-**Stack:** PHP · MySQL · JavaScript
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
 
-[Repository](https://github.com/proyectodegrado253-ai/sistema-reservas-aulas) · [Live demo](https://sistema-reservas-aulas.vercel.app)
+## Proyectos destacados
 
-### LALAND Football
+### OpenScan OCR
 
-Full-stack football platform with live matches, player profiles, statistics, standings, match events and an administrative dashboard.
+Toolkit de código abierto para convertir imágenes y PDFs escaneados en texto utilizable y documentos PDF buscables. Incluye preprocesamiento, comparación de configuraciones OCR, métricas CER/WER, exportación de resultados y una interfaz web.
 
-**Stack:** React · Node.js · Express · MySQL · Sequelize · Socket.io
+**Enfoque:** visión por computador, procesamiento de imágenes, OCR y reproducibilidad.
 
-[Repository](https://github.com/isyoimerr/laland-football)
+[Repositorio](https://github.com/isyoimerr/openscan-ocr) · [Demo](https://openscan-ocr.onrender.com/) · [Demo en Colab](https://colab.research.google.com/github/isyoimerr/openscan-ocr/blob/main/research/openscan_public_demo.ipynb)
+
+### Análisis de abuso en Colombia
+
+Análisis exploratorio de datos públicos de Colombia para identificar patrones geográficos, temporales y demográficos, con énfasis en la interpretación responsable de la información.
+
+**Tecnologías:** Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly
+
+[Repositorio](https://github.com/isyoimerr/equacdatalab-analisis) · [Análisis en Colab](https://colab.research.google.com/drive/11gLcUEYLB_a3wPMQUkYs6oH9E-fYf57v?usp=sharing)
+
+### Data NU3
+
+Proyecto académico de bases de datos para organizar y gestionar información de una organización de impacto social.
+
+**Enfoque:** modelado de datos, SQL, organización de información y trabajo colaborativo.
+
+[Repositorio](https://github.com/isyoimerr/data-nu3)
+
+## Aplicaciones y sistemas
+
+### BullyBlock
+
+Plataforma web móvil para el reporte y seguimiento de situaciones de riesgo escolar. Incluye flujos para estudiantes, docentes, psicorientación y administración institucional.
+
+[Repositorio](https://github.com/isyoimerr/bullyblock) · [Demo](https://bullyblock-mu.vercel.app/)
 
 ### INTEGRA+
 
-Educational platform for learning integral calculus through learning paths, interactive exercises, progress tracking and teacher tools.
+Plataforma educativa para aprender cálculo integral mediante rutas de aprendizaje, ejercicios interactivos, progreso por competencias y herramientas para docentes.
 
-**Stack:** React · Node.js · Prisma · SQL · KaTeX
+**Tecnologías:** React · Node.js · Express · MySQL · Prisma · KaTeX
 
-[Repository](https://github.com/isyoimerr/integra_plus)
+[Repositorio](https://github.com/isyoimerr/integra_plus)
+
+### LALAND Football
+
+Plataforma full-stack de fútbol con partidos, perfiles, estadísticas, tablas de posiciones, eventos en tiempo real y panel administrativo.
+
+**Tecnologías:** React · Node.js · Express · MySQL · Sequelize · Socket.io
+
+[Repositorio](https://github.com/isyoimerr/laland-football)
+
+### Sistema de reservas de aulas
+
+Sistema para consultar disponibilidad y gestionar reservas de espacios académicos.
+
+**Tecnologías:** PHP · MySQL · JavaScript
+
+[Repositorio](https://github.com/isyoimerr/sistema-reservas-aulas) · [Demo](https://sistema-reservas-aulas.vercel.app/)
 
 ### ZAYRO Web
 
-Premium commercial landing page for a fashion, fragrance and accessories brand, optimized for visual presentation and mobile browsing.
+Sitio web comercial responsive para una marca de moda, fragancias y accesorios.
 
-**Stack:** JavaScript · HTML · CSS · Vercel
+[Repositorio](https://github.com/isyoimerr/zayro-web)
 
-[Website](https://zayro-web.vercel.app) · [Repository](https://github.com/isyoimerr/zayro-web)
+## Formación continua
 
-## Data and academic projects
+También mantengo repositorios de práctica sobre Git, GitHub y Markdown como parte de mi aprendizaje continuo.
 
-- [Analysis of abuse data in Colombia](https://github.com/isyoimerr/equacdatalab-analisis) — exploratory analysis of public data with a social focus.
-- [GitHub learning projects](https://github.com/isyoimerr?tab=repositories) — practical exercises and continuous learning.
+[Ver todos mis repositorios](https://github.com/isyoimerr?tab=repositories)
 
-## GitHub activity
+## Actualmente estoy fortaleciendo
 
-<div align="center">
+- Construcción de pipelines y flujos reproducibles de datos
+- Modelado, calidad y consulta eficiente de bases de datos
+- Machine Learning e inteligencia artificial aplicada
+- Despliegue, automatización y buenas prácticas de ingeniería
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=isyoimerr&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Yoimer's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyoimerr&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" />
+## Contacto
 
-</div>
+La mejor forma de conocer mi trabajo es revisar los proyectos y sus repositorios:
 
-## Current focus
-
-- Full-stack web development
-- API design and administrative systems
-- Data analysis and artificial intelligence
-- Deployment and software engineering practices
-
-## Contact
-
-The best way to learn about my work is through the repositories and live demos linked above.
-
-<div align="center">
-
-[GitHub](https://github.com/isyoimerr) · [Repositories](https://github.com/isyoimerr?tab=repositories)
-
-</div>
+[GitHub](https://github.com/isyoimerr) · [Todos mis proyectos](https://github.com/isyoimerr?tab=repositories)
